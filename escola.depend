@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1726533152 source:c:\users\eduardo prezzi\documents\escola\escola\main.cpp
+	<iostream>
+
+1726533084 source:c:\users\eduardo prezzi\documents\escola\escola\src\pessoa.cpp
+	"Pessoa.h"
+
+1726532844 c:\users\eduardo prezzi\documents\escola\escola\include\pessoa.h
+	<iostream>
+
+1726533574 source:c:\users\eduardo prezzi\documents\escola\escola\src\resultados.cpp
+	"Resultados.h"
+
+1726534021 c:\users\eduardo prezzi\documents\escola\escola\include\resultados.h
+	<iostream>
+
+1726533553 source:c:\users\eduardo prezzi\documents\escola\escola\src\aluno.cpp
+	"Aluno.h"
+
+1726534421 c:\users\eduardo prezzi\documents\escola\escola\include\aluno.h
+	"Pessoa.h"
+	<iostream>
+	"Resultados.h"
+
+1727134687 source:c:\users\aluno4\downloads\escola\main.cpp
+	<iostream>
+	<vector>
+	"Pessoa.h"
+	"Aluno.h"
+	<limits>
+
+1727130343 source:c:\users\aluno4\downloads\escola\src\aluno.cpp
+	"Aluno.h"
+
+1727130400 c:\users\aluno4\downloads\escola\include\aluno.h
+	"Pessoa.h"
+	<iostream>
+	"Resultados.h"
+
+1727130400 c:\users\aluno4\downloads\escola\include\pessoa.h
+	<iostream>
+
+1727132624 c:\users\aluno4\downloads\escola\include\resultados.h
+	<iostream>
+
+1727130504 source:c:\users\aluno4\downloads\escola\src\pessoa.cpp
+	"Pessoa.h"
+
+1727132682 source:c:\users\aluno4\downloads\escola\src\resultados.cpp
+	"Resultados.h"
+	<string>
+
+1727130504 source:c:\users\administrator\documents\codigos\escola\ldp2\projetoalunp-20240926t210123z-001\projetoalunp\escola\src\pessoa.cpp
+	"Pessoa.h"
+
+1727130400 c:\users\administrator\documents\codigos\escola\ldp2\projetoalunp-20240926t210123z-001\projetoalunp\escola\include\pessoa.h
+	<iostream>
+
+1727132682 source:c:\users\administrator\documents\codigos\escola\ldp2\projetoalunp-20240926t210123z-001\projetoalunp\escola\src\resultados.cpp
+	"Resultados.h"
+	<string>
+
+1727132624 c:\users\administrator\documents\codigos\escola\ldp2\projetoalunp-20240926t210123z-001\projetoalunp\escola\include\resultados.h
+	<iostream>
+
+1727467350 source:c:\users\administrator\documents\codigos\escola\ldp2\projetoalunp-20240926t210123z-001\projetoalunp\escola\main.cpp
+	<iostream>
+	<vector>
+	"C:\Users\Administrator\Documents\codigos\escola\ldp2\projetoAlunp-20240926T210123Z-001\projetoAlunp\escola\include\Pessoa.h"
+	"C:\Users\Administrator\Documents\codigos\escola\ldp2\projetoAlunp-20240926T210123Z-001\projetoAlunp\escola\include\Aluno.h"
+	"C:\Users\Administrator\Documents\codigos\escola\ldp2\projetoAlunp-20240926T210123Z-001\projetoAlunp\escola\include\Admin.h"
+	"C:\Users\Administrator\Documents\codigos\escola\ldp2\projetoAlunp-20240926T210123Z-001\projetoAlunp\escola\include\Professor.h"
+	<limits>
+	<chrono>
+	<thread>
+
+1727130400 c:\users\administrator\documents\codigos\escola\ldp2\projetoalunp-20240926t210123z-001\projetoalunp\escola\include\aluno.h
+	"Pessoa.h"
+	<iostream>
+	"Resultados.h"
+
+1727385257 c:\users\administrator\documents\codigos\escola\ldp2\projetoalunp-20240926t210123z-001\projetoalunp\escola\include\admin.h
+	"Pessoa.h"
+	<iostream>
+
+1727385257 c:\users\administrator\documents\codigos\escola\ldp2\projetoalunp-20240926t210123z-001\projetoalunp\escola\include\professor.h
+	"Pessoa.h"
+	<iostream>
+
+1727384933 source:c:\users\administrator\documents\codigos\escola\ldp2\projetoalunp-20240926t210123z-001\projetoalunp\escola\src\aluno.cpp
+	"Aluno.h"
+
+1727385080 source:c:\users\administrator\documents\codigos\escola\ldp2\projetoalunp-20240926t210123z-001\projetoalunp\escola\src\professor.cpp
+	"Professor.h"
+
+1728340492 source:c:\users\aluno4\downloads\gabs m4i\llinguagemdeprograma\escola\main.cpp
+	<iostream>
+	<vector>
+	"Pessoa.h"
+	"Aluno.h"
+	"Admin.h"
+	"Professor.h"
+	<limits>
+	<chrono>
+	<thread>
+	<fstream>
+	<string>
+	<sstream>
+
+1727384933 source:c:\users\aluno4\downloads\gabs m4i\llinguagemdeprograma\escola\src\aluno.cpp
+	"Aluno.h"
+
+1727130400 c:\users\aluno4\downloads\gabs m4i\llinguagemdeprograma\escola\include\aluno.h
+	"Pessoa.h"
+	<iostream>
+	"Resultados.h"
+
+1728340993 c:\users\aluno4\downloads\gabs m4i\llinguagemdeprograma\escola\include\pessoa.h
+	<iostream>
+
+1727132624 c:\users\aluno4\downloads\gabs m4i\llinguagemdeprograma\escola\include\resultados.h
+	<iostream>
+
+1727130504 source:c:\users\aluno4\downloads\gabs m4i\llinguagemdeprograma\escola\src\pessoa.cpp
+	"Pessoa.h"
+
+1727385080 source:c:\users\aluno4\downloads\gabs m4i\llinguagemdeprograma\escola\src\professor.cpp
+	"Professor.h"
+
+1727385257 c:\users\aluno4\downloads\gabs m4i\llinguagemdeprograma\escola\include\professor.h
+	"Pessoa.h"
+	<iostream>
+
+1727738212 source:c:\users\aluno4\downloads\gabs m4i\llinguagemdeprograma\escola\src\resultados.cpp
+	"Resultados.h"
+	<string>
+
+1727385257 c:\users\aluno4\downloads\gabs m4i\llinguagemdeprograma\escola\include\admin.h
+	"Pessoa.h"
+	<iostream>
+
